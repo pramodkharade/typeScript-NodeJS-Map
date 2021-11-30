@@ -11,3 +11,5 @@ npx tsc --init --rootDir ./src --outDir ./dist --esModuleInterop --resolveJsonMo
 # Webpack setup 
 npm i --save-dev webpack webpack-cli webpack-dev-server typescript ts-loader
 
+# Add your own Google API KEY
+GOOGLE_API_KEY
